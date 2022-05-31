@@ -1,0 +1,10 @@
+.submit {
+  margin-right: 20%;
+}
+.password {
+  margin-bottom: 0.2rem;
+}
+.errormsg {
+  color: red;
+  margin-left: 0.6rem;
+}
